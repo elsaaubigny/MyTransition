@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="#-français">Français</a> · <a href="#-english">English</a>
+  <a href="#français">Français</a> · <a href="#english">English</a>
 </p>
 
 ---
