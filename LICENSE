@@ -1,0 +1,40 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2026 MyTransition contributors
+
+MyTransition is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+MyTransition is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/agpl-3.0.html>.
+
+--------------------------------------------------------------------------
+
+SUMMARY (this summary has no legal value — only the full license text,
+linked above, is legally binding):
+
+The AGPLv3 is a strong copyleft license. In short, it means:
+
+  - You are free to use, study, modify, and redistribute this software,
+    for any purpose, including commercially.
+  - If you distribute a modified version, you must release its source
+    code under the same license (AGPLv3).
+  - If you run a modified version of this software on a server and let
+    other people interact with it over a network (e.g. as a web app,
+    which is exactly what MyTransition is), you must make the
+    corresponding source code available to those users. This is the
+    key difference from the plain GPL: network use counts as
+    distribution.
+  - You must keep copyright and license notices intact, and document
+    significant changes you make.
+  - The software comes with NO WARRANTY of any kind.
+
+Full legal text: https://www.gnu.org/licenses/agpl-3.0.html
